@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "fLaM",
-        "MACE ATTACK!",
-        "im never posting LOL!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
