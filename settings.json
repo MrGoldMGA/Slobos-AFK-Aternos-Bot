@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "koraki",
+    "username": "Slobo",
     "password": "",
     "type": "offline"
   },
@@ -24,16 +24,16 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": false
+      "sneak": true
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "",
-        "",
-        ""
+        ".",
+        "afk",
+        "ok"
       ]
     },
     "chat-log": true,
