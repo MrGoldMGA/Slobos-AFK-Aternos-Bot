@@ -3,16 +3,16 @@
   "bot-account": {
     "username": "CrustyMiner",
     "password": "12345678910",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "SchoolSMPs2.play.hosting",
-    "port": "",
+    "port": "48704",
     "version": "1.21.11",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
